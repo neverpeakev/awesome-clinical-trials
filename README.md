@@ -49,6 +49,7 @@
 - [PubMed API (E-utilities)](https://www.ncbi.nlm.nih.gov/books/NBK25501/) - Access biomedical literature and citations.
 - [UMLS API](https://documentation.uts.nlm.nih.gov/rest/home.html) - Unified Medical Language System for medical terminology.
 - [RxNorm API](https://lhncbc.nlm.nih.gov/RxNav/APIs/RxNormAPIs.html) - Drug name normalization and lookup.
+- [Superhighway Drug Discovery Research Agent](https://superhighway.walls.sh/guides/drug-discovery-research-agent) - Python agent that researches clinical trial results (with NCT IDs), drug pipelines, and FDA status via live web search to generate structured intelligence briefs.
 
 ## Open Source Projects
 
