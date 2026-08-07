@@ -56,6 +56,7 @@
 - [ClinicalTrials.gov Parser](https://github.com/clinical-trials-research/clinical-trials-gov-parser) - Tools for parsing and analyzing ClinicalTrials.gov data.
 - [TrialStreamer](https://github.com/ijmarshall/trialstreamer) - Living systematic review system for clinical trials.
 - [PyTrials](https://github.com/jvfe/pytrials) - Python wrapper for the ClinicalTrials.gov API.
+- [open-trials-data](https://github.com/ConorsCode/open-trials-data) - Free, daily-updated dataset (JSON + CSV) of ~47,000 currently-recruiting interventional clinical trials, pulled from the ClinicalTrials.gov API v2 and refreshed daily by GitHub Actions.
 
 ## Data Standards
 
