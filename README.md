@@ -44,6 +44,7 @@
 
 ## APIs & Developer Tools
 
+- [Allowly Clinical Trials Evidence](https://allowly.ai/use-cases/clinical-trials-proof/) - Policy checks before clinical data transfers and signed decision records that can support per-study evidence.
 - [ClinicalTrials.gov API v2](https://clinicaltrials.gov/data-api/api) - Official REST API for querying clinical trial data.
 - [OpenFDA API](https://open.fda.gov/) - FDA datasets including drug adverse events, recalls, and labeling.
 - [PubMed API (E-utilities)](https://www.ncbi.nlm.nih.gov/books/NBK25501/) - Access biomedical literature and citations.
