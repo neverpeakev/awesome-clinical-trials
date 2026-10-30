@@ -45,6 +45,7 @@
 ## APIs & Developer Tools
 
 - [ClinicalTrials.gov API v2](https://clinicaltrials.gov/data-api/api) - Official REST API for querying clinical trial data.
+- [ClinicalTrials.gov Sponsor Pipeline Scraper](https://apify.com/taroyamada/clinical-trials-pipeline-monitor) - Tracks ClinicalTrials.gov sponsor trial pipelines. Approx. USD 0.01–0.03 per query on Apify.
 - [OpenFDA API](https://open.fda.gov/) - FDA datasets including drug adverse events, recalls, and labeling.
 - [PubMed API (E-utilities)](https://www.ncbi.nlm.nih.gov/books/NBK25501/) - Access biomedical literature and citations.
 - [UMLS API](https://documentation.uts.nlm.nih.gov/rest/home.html) - Unified Medical Language System for medical terminology.
